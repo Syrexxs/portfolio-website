@@ -1,2 +1,0 @@
-# portfolio-website
- ge lng
